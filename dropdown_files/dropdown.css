@@ -1,0 +1,12 @@
+.d-content{
+    display: none;
+    background-color: black;
+    border: 5px grove red;
+    color: bisque;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    font-size: 35px;
+    padding: 30px;
+}
+.dropdown:hover .d-content{
+    display: block;
+}
